@@ -77,6 +77,7 @@ let btnGroupSettings = document.getElementById('btn-group-settings');
   groupSettingsCard.querySelector("#apply").onclick = async () => {
     if (getCurrentCardState().some(cb => cb.checked)) {
       closeCard();
+      saveCardStateToLocalStorage();
       await applyGrouping(getCurrentCardState());
     }
   }
