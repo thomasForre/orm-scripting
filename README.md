@@ -1,5 +1,5 @@
 # orm-grouping-script
-A script with a small UI to make grouping in ORM persistant.
+A script with a small UI to make grouping in ORM persistant and automatic
 
 ### Setup
 1. Copy the raw content of the `orm-grouping-script.min.js` file 📄
