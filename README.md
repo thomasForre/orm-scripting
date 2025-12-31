@@ -5,7 +5,7 @@ Scrips for automating daily processes in ORM such as work permit grouping and fi
 1. Grouping – Script with a small UI to make grouping persistant and automated with one single click
 2. Filtering – Script that auto selects filtering with work permits for Today (per now hardcoded)
 
-### Grouping
+### 1 Grouping
 #### Setup
 1. Copy the raw content of the `orm-grouping-script.min.js` file 📄
 2. In you browser, add a new bookmark (favorite) ⭐
@@ -24,7 +24,7 @@ Next time you click the bookmark, the colmns will group this way.
 To change settings, click the gear icon above the columns headers.
 <img width="46" height="47" alt="image" src="https://github.com/user-attachments/assets/b3ac22a7-bfe6-459c-bbea-f63614e40f4f" />
 
-### Filtering
+### 2 Filtering
 #### Setup
 1. Copy the raw content of the `orm-filtering-script.min.js` file 📄
 2. In you browser, add a new bookmark (favorite) ⭐
