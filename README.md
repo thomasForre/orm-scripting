@@ -1,4 +1,4 @@
-# orm group script
+# ORM group script
 Script for automating grouping of columns in work permit search page in ORM
 
 ## Grouping
